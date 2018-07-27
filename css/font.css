@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url("../fonts/opensans-regular.eot");
+    src: url("../fonts/opensans-regular86d7.eot?iefix") format("embedded-opentype"),
+         url("../fonts/opensans-regular.html") format("woff"),
+         url("../fonts/opensans-regular-2.html") format("woff2"),
+         url("../fonts/opensans-regular.svg") format("svg"),
+         url("../fonts/opensans-regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GalanoGrotesque";
+    src: url("../fonts/galano-grotesque-alt-extra-bold.eot");
+    src: url("../fonts/galano-grotesque-alt-extra-bold86d7.eot?iefix") format("embedded-opentype"),
+         url("../fonts/galano-grotesque-alt-extra-bold.html") format("woff"),
+         url("../fonts/galano-grotesque-alt-extra-bold-2.html") format("woff2"),
+         url("../fonts/galano-grotesque-alt-extra-bold.svg") format("svg"),
+         url("../fonts/galano-grotesque-alt-extra-bold.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GalanoGrotesque";
+    src: url("../fonts/galano-grotesque-alt-bold.eot");
+    src: url("../fonts/galano-grotesque-alt-bold86d7.eot?iefix") format("embedded-opentype"),
+         url("../fonts/galano-grotesque-alt-bold.html") format("woff"),
+         url("../fonts/galano-grotesque-alt-bold-2.html") format("woff2"),
+         url("../fonts/galano-grotesque-alt-bold.svg") format("svg"),
+         url("../fonts/galano-grotesque-alt-bold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "GalanoGrotesque";
+    src: url("../fonts/galano-grotesque-semi-bold.eot");
+    src: url("../fonts/galano-grotesque-semi-bold86d7.eot?iefix") format("embedded-opentype"),
+         url("../fonts/galano-grotesque-semi-bold.html") format("woff"),
+         url("../fonts/galano-grotesque-semi-bold-2.html") format("woff2"),
+         url("../fonts/galano-grotesque-semi-bold.svg") format("svg"),
+         url("../fonts/galano-grotesque-semi-bold.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "GalanoGrotesque";
+    src: url("../fonts/galano-grotesque.eot");
+    src: url("../fonts/galano-grotesque86d7.eot?iefix") format("embedded-opentype"),
+         url("../fonts/galano-grotesque.html") format("woff"),
+         url("../fonts/galano-grotesque-2.html") format("woff2"),
+         url("../fonts/galano-grotesque.svg") format("svg"),
+         url("../fonts/galano-grotesque.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lobster";
+    src: url("../fonts/lobster-regular.eot");
+    src: url("../fonts/lobster-regular86d7.eot?iefix") format("embedded-opentype"),
+         url("../fonts/lobster-regular.html") format("woff"),
+         url("../fonts/lobster-regular-2.html") format("woff2"),
+         url("../fonts/lobster-regular.svg") format("svg"),
+         url("../fonts/lobster-regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
